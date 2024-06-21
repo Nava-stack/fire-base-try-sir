@@ -11,6 +11,8 @@ import SignUpScreen from "./screens/SignUpScreen";
 // Stack Navigator for Login and SignUp
 const Stack = createStackNavigator();
 
+//Git changed checking
+
 // Bottom Tab Navigator for main app functionality
 const Tab = createBottomTabNavigator();
 
